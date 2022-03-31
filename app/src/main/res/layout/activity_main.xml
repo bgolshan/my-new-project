@@ -16,5 +16,9 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="hello CIT382"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="i am a button"/>
 
 </LinearLayout>
